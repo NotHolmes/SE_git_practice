@@ -1,5 +1,5 @@
 public class Cat {
     public static void main(String[] args) {
-        return;
+        System.out.println("This file has been rigged.");
     }
 }
