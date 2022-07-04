@@ -1,3 +1,3 @@
 public class Z {
-    public String text;
+    private String text;
 }
